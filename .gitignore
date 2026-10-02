@@ -6,3 +6,5 @@ __pycache__/
 venv/
 .env
 ratings.csv
+movies.csv
+
